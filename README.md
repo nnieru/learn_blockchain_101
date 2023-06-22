@@ -2,11 +2,8 @@
 
 Link:
 
-<ul>
-<li>
-  
-  [mutltichain learning documetation](multichain.md)
+[mutltichain learning documetation](multichain.md)
    
-</li>  
-</ul>
+ 
+
 
