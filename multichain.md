@@ -1,4 +1,4 @@
-<h2>Multichan Learning Documentation</h2>
+<h2>Multichain Learning Documentation</h2>
 
 <p>
   This is multichain learning documentation. Enjoy :)
@@ -45,5 +45,9 @@ port=<your port>
 ```
 multichaind <chain-name> -daemon -rescan -explorersupport=2
 ```
+
+
+<h3>Configure explorer</h3>
+
 
 
