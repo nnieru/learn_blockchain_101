@@ -10,3 +10,28 @@
 ```
 multichain-util create <chain-name>
 ```
+
+<h3>Configure multichain.conf file</h3>
+
+**Steps:**
+
+<p>move to .multichain directory</p>
+
+```
+cd .multichain/
+```
+
+<p>edit  multichain.conf file</p>
+
+```
+sudo nano multichain.conf
+```
+
+<p>add several parameter to the multichain.conf file</p>
+
+```
+rpcallowip=0.0.0.0/0
+rpcport=<your rpcport>
+port=<your port>
+```
+
