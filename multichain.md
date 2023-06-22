@@ -1,4 +1,5 @@
 <h2>Multichan Learning Documentation</h2>
+
 <p>
   This is multichain learning documentation. Enjoy :)
 </p>
@@ -10,6 +11,7 @@
 ```
 multichain-util create <chain-name>
 ```
+
 
 <h3>Configure multichain.conf file</h3>
 
@@ -34,4 +36,14 @@ rpcallowip=0.0.0.0/0
 rpcport=<your rpcport>
 port=<your port>
 ```
+
+
+<h3>Run multichain</h3>
+
+**Command:**
+
+```
+multichaind <chain-name> -daemon -rescan -explorersupport=2
+```
+
 
