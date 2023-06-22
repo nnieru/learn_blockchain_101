@@ -3,4 +3,10 @@
   This is multichain learning documentation. Enjoy :)
 </p>
 
-<h3>Create Multichain</h3>
+<h3>Create new chain</h3>
+
+**Command:** 
+
+```
+multichain-util create <chain-name>
+```
